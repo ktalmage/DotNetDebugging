@@ -1,0 +1,13 @@
+/home/ktalmage/dotnet/DotNetDebugging/bin/Debug/netcoreapp3.1/DotNetDebugging
+/home/ktalmage/dotnet/DotNetDebugging/bin/Debug/netcoreapp3.1/DotNetDebugging.deps.json
+/home/ktalmage/dotnet/DotNetDebugging/bin/Debug/netcoreapp3.1/DotNetDebugging.runtimeconfig.json
+/home/ktalmage/dotnet/DotNetDebugging/bin/Debug/netcoreapp3.1/DotNetDebugging.runtimeconfig.dev.json
+/home/ktalmage/dotnet/DotNetDebugging/bin/Debug/netcoreapp3.1/DotNetDebugging.dll
+/home/ktalmage/dotnet/DotNetDebugging/bin/Debug/netcoreapp3.1/DotNetDebugging.pdb
+/home/ktalmage/dotnet/DotNetDebugging/obj/Debug/netcoreapp3.1/DotNetDebugging.csprojAssemblyReference.cache
+/home/ktalmage/dotnet/DotNetDebugging/obj/Debug/netcoreapp3.1/DotNetDebugging.AssemblyInfoInputs.cache
+/home/ktalmage/dotnet/DotNetDebugging/obj/Debug/netcoreapp3.1/DotNetDebugging.AssemblyInfo.cs
+/home/ktalmage/dotnet/DotNetDebugging/obj/Debug/netcoreapp3.1/DotNetDebugging.csproj.CoreCompileInputs.cache
+/home/ktalmage/dotnet/DotNetDebugging/obj/Debug/netcoreapp3.1/DotNetDebugging.dll
+/home/ktalmage/dotnet/DotNetDebugging/obj/Debug/netcoreapp3.1/DotNetDebugging.pdb
+/home/ktalmage/dotnet/DotNetDebugging/obj/Debug/netcoreapp3.1/DotNetDebugging.genruntimeconfig.cache
